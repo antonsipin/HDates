@@ -4,7 +4,10 @@ import {
   Group2345,
   Group2329,
   Group2346,
+  Group28422798,
   Vector17,
+  Vector2,
+  Ellipse335,
   MaskGroup,
   TextHDates,
   Text6,
@@ -21,7 +24,10 @@ export const MainPage = () => {
       <Group2347 />
       <Group2329 />
       <Group2346 />
+      <Group28422798 />
       <Vector17 />
+      <Vector2 />
+      <Ellipse335 />
       <Text6 />
       <TextHDates />
       <Text2015_2022 />
