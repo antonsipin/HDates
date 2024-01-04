@@ -7,6 +7,7 @@ import {
   Vector17,
   MaskGroup,
   TextHDates,
+  Text6,
   Text2015_2022,
   TextScience,
 } from "../components";
@@ -21,6 +22,7 @@ export const MainPage = () => {
       <Group2329 />
       <Group2346 />
       <Vector17 />
+      <Text6 />
       <TextHDates />
       <Text2015_2022 />
       <Group2345 />
