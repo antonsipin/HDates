@@ -1,6 +1,7 @@
 export * from './Group3048/Group3048'
 export * from './MaskGroup/MaskGroup'
 export * from './Text2015_2022/Text2015_2022'
+export * from './Text1992_1997/Text1992_1997'
 export * from './TextScience/TextScience'
 export * from './Group2347/Group2347'
 export * from './Group2329/Group2329'
